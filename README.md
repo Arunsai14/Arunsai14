@@ -74,7 +74,7 @@
 
 ### Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/arunsai/" target="blank">
+  <a href="https://www.linkedin.com/in/arun-sai-5377b830b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunsai" height="30" width="40" />
   </a>
 </p>
