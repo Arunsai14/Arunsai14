@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **enhancing infrastructure automation with Terraform**.
 - 🌱 I’m contributing to **open-source projects** in the cloud and DevOps space.
 - 💬 Ask me about **AWS, DevOps, Terraform** – I'm always happy to help!
-- 📫 How to reach me: **gadearunsai14@example.com**
+- 📫 How to reach me: **gadearunsai14@gamil.com**
 - 📄 Learn more about my professional journey on [LinkedIn](https://www.linkedin.com/in/arun-sai-5377b830b/).
 
 ### My Skills & Tools
@@ -53,9 +53,6 @@
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
