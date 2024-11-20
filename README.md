@@ -5,7 +5,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=arunsai&theme=onedark&no-frame=true&row=1&column=7" alt="arunsai" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Arunsai14/Arunsai14/main/assets/image.webp">
 
 ### About Me
 - 🔭 I’m currently working on **enhancing infrastructure automation with Terraform**.
